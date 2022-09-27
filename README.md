@@ -1,6 +1,6 @@
 # Crypto Wallet
 
-    ![](ApeCoin.gif)   
+![](ApeCoin.gif)   
 <sub>ApeCoin</sub>
 
 # Criteria A: Planning
