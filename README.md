@@ -25,8 +25,9 @@ The crypto I will be working with is Ape Coin
 2. The electronic ledger display the basic description of the cyrptocurrency selected.
 3. The electronic ledger allows to enter, withdraw and record transactions.
 4. The electronic ledger has a longin system that allows only Ms. Sato to access.
-6. The electronic ledger encrypts all the data that is stored.
-8. The electronic ledger allows Ms. Sato to easily navigate her transaction and withdraw record.
+5. The electronic ledger encrypts all the data that is stored.
+6. The electronic ledger allows Ms. Sato to easily navigate her transaction and withdraw record.
+7. The electronic ledger only allows the user to try four times after authentification faliure.
 
 # Criteria B: Design
 
