@@ -43,3 +43,8 @@ The crypto I will be working with is Ape Coin
 | 2 | Flow diagram login  | created a flow diagram for the login system | 10min | Sep27 | B |
 | 3 | Code and test login | coded and tested the login system           | 50min | Sep27 | C |
 | 4 |                     | test the login                              |       |       | D |
+
+
+# Criteria B: Design
+
+## Simple login
