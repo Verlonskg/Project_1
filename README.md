@@ -24,9 +24,9 @@ The crypto I will be working with is Ape Coin
 1. The electronic ledger is a text-based software (Runs in the Terminal).
 2. The electronic ledger display the basic description of the cyrptocurrency selected.
 3. The electronic ledger allows to enter, withdraw and record transactions.
-4. The electronic ledger has a longin system that allows only Ms. Sato to access.
+4. The electronic ledger has a longin system that only allows Ms. Sato to access.
 5. The electronic ledger encrypts all the data that is stored.
-6. The electronic ledger allows Ms. Sato to easily navigate her transaction and withdraw record.
+6. The electronic ledger allows Ms. Sato to see all of her transaction and withdraw history.
 7. The electronic ledger only allows the user to try four times after authentification faliure.
 
 # Criteria B: Design
