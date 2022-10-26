@@ -33,8 +33,8 @@ The crypto I will be working with is Ape Coin
 
 ## System Diagram
 
-![](Macbook_Air.jpg)   
-<sub>Macbook_Air.jpg</sub>
+![](MacbookAir.jpg)   
+<sub>MacbookAir.jpg</sub>
 
 ## Flow Diagrams
 
