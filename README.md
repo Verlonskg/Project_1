@@ -39,6 +39,10 @@ The crypto I will be working with is Ape Coin
 ## Flow Diagrams
 
 
+![](Project_001_Floch01.drawio.png)   
+<sub>Project_001_Floch01.drawio.png</sub>
+
+
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
 |---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
